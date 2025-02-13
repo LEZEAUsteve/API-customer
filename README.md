@@ -12,7 +12,7 @@ API Customers est une application Node.js avec Express.js, MongoDB et RabbitMQ, 
 
 ### **2️⃣ Cloner le dépôt**
 ```bash
-git clone https://github.com/tonrepo/api-product.git
+git clone https://github.com/LEZEAUsteve/API-customer
 ```
 
 ### **3️⃣ Configuration**
